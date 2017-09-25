@@ -1,6 +1,5 @@
 module.exports = function zeros(expression) 
 {
-
 var factorial = function(number) 
 {
  if (number <= 0) { // terminal case
